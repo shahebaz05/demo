@@ -8,6 +8,6 @@ public class HomeController {
 
 	@GetMapping("test")
 	public String test() {
-		return "Java is Awesome.";
+		return "Java is Awesome hrrhh.";
 	}
 }
